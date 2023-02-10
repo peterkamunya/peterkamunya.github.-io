@@ -1,2 +1,10 @@
 # peterkamunya.github.-io
-i love the real people in nature
+# pedroz mwangi kamunya
+<!DOC TYPE html>
+<head>
+  </head>
+  <body>
+  #this is raw making substance
+  </body  
+</html>
+  
