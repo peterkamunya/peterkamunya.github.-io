@@ -1,8 +1,16 @@
-#The Joggins Fossil 
-#Introduction 
-#1.1	Location and History: The Joggins Fossil Cliffs can be found in the Canadian town of Joggins. Due to the rarity and significance of the fossils it contains, #the site has been deemed essential to the field of paleontology. These fossils date back more than 300 million years. The Joggins Fossil Institute manages and #protects the site, as it is a UNESCO World Heritage Site.
+The Joggins Fossil 
+
+Introduction 
+
+1.1	Location and History: The Joggins Fossil Cliffs can be found in the Canadian town of Joggins. Due to the rarity and significance of the fossils it contains,
+
+the site has been deemed essential to the field of paleontology. These fossils date back more than 300 million years. The Joggins Fossil Institute manages and 
+
+protects the site, as it is a UNESCO World Heritage Site.
  
-#Admissions and Access: While there is no charge for entering Joggins Fossil Cliffs, visitors are required to sign up at the Joggins Fossil Institute first. From May #to October, you can visit the Institute between 9 AM and 5 PM hours by driving yourself or taking a guided tour from Moncton or Amherst, Nova Scotia.
+Admissions and Access: While there is no charge for entering Joggins Fossil Cliffs, visitors are required to sign up at the Joggins Fossil Institute first. From May 
+
+to October, you can visit the Institute between 9 AM and 5 PM hours by driving yourself or taking a guided tour from Moncton or Amherst, Nova Scotia.
 #Directions from George Brown College St James Campus: From George Brown College St. James Campus, drive east on the Gardiner Expressway and then east on Highway 401 #to reach Joggins Fossil Cliffs. In another 1 hour and 20 minutes, after taking exit 478 onto New Brunswick Route 104, you will have arrived in Joggins.
 #1.2	Management: As a nonprofit, the Joggins Fossil Institute relies on funding from the government, private donations, and collaborative efforts with other #institutions to keep the site running and the research flowing. The Institute also makes money from the sale of souvenirs, tours, and courses.
 #1.3	Marketing: The Joggins Fossil Institute promotes the Joggins Fossil Cliffs as a historical site through several channels. Promoting on social media, printing #brochures, and teaming up with travel agencies are all examples of these tactics (Calder, 2017). The Institute also participates in events, such as paleontology #conferences, to publicize the site and its findings.
