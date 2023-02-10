@@ -13,6 +13,8 @@ The Joggins Fossil
 1.3**Marketing**: The Joggins Fossil Institute promotes the Joggins Fossil Cliffs as a historical site through several channels. Promoting on social media, printing brochures, and teaming up with travel agencies are all examples of these tactics (Calder, 2017). The Institute also participates in events, such as paleontology conferences, to publicize the site and its findings.
  
 Heritage Tourism
+[IMG_20230119_121620](https://user-images.githubusercontent.com/113988753/218113715-15209f8c-94a3-4388-b07d-4dc045a2376d.jpg)
+
 
    2.1**Heritage Classification**: For its exceptional fossil record and scientific importance to paleontology, Joggins Fossil Cliffs deserves to be recognized as a World Heritage Site. Its natural beauty and scientific significance led to its designation as a UNESCO World Heritage Site in 2008
    
