@@ -15,6 +15,7 @@ The Joggins Fossil
 1.3**Marketing**: The Joggins Fossil Institute promotes the Joggins Fossil Cliffs as a historical site through several channels. Promoting on social media, printing brochures, and teaming up with travel agencies are all examples of these tactics (Calder, 2017). The Institute also participates in events, such as paleontology conferences, to publicize the site and its findings.
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/113988753/218121522-ccb5d1c2-0e4e-48c1-b736-6d7ecb702da0.png)
+
 Heritage Tourism
 
 
