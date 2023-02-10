@@ -32,7 +32,7 @@ Heritage Tourism
  
 The fossils found at Joggins Fossil Cliffs make for an interesting and informative day trip for history buffs. Guests can learn about the site's long and significant past through guided tours, exhibits, and interactive displays. Keeping the interests of tourists, locals, and stakeholders in mind, the Joggins Fossil Institute is essential to the success of this historic site.
 
-  **References **
+ **References**
   
 Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
 Grey, M. G., & Finkel, Z. V. (2011). The Joggins Fossil Cliffs UNESCO World Heritage site: a review of recent research. atlantic GeoloGy, 47, 185-200._
