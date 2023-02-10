@@ -1,5 +1,7 @@
 The Joggins Fossil 
+
 **Introduction** 
+
 1.1**Location and History**: The Joggins Fossil Cliffs can be found in the Canadian town of Joggins. Due to the rarity and significance of the fossils it contains, the site has been deemed essential to the field of paleontology. These fossils date back more than 300 million years. The Joggins Fossil Institute manages and protects the site, as it is a UNESCO World Heritage Site.
  
 **Admissions and Access**: While there is no charge for entering Joggins Fossil Cliffs, visitors are required to sign up at the Joggins Fossil Institute first. From May to October, you can visit the Institute between 9 AM and 5 PM hours by driving yourself or taking a guided tour from Moncton or Amherst, Nova Scotia.
@@ -29,8 +31,8 @@ The fossils found at Joggins Fossil Cliffs make for an interesting and informati
 
  **References **
  
-Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
-Grey, M. G., & Finkel, Z. V. (2011). The Joggins Fossil Cliffs UNESCO World Heritage site: a review of recent research. atlantic GeoloGy, 47, 185-200.
+_Calder, J. (2017). The Joggins fossil cliffs: coal age Galápagos. Formac Publishing Company.
+Grey, M. G., & Finkel, Z. V. (2011). The Joggins Fossil Cliffs UNESCO World Heritage site: a review of recent research. atlantic GeoloGy, 47, 185-200._
 
 
 
